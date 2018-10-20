@@ -2,17 +2,11 @@
 import * as React from "react";
 import * as VegaLite from 'react-vega-lite';  
 
-
 // Importing styling and static assets
 import "./dashboard.css";
 
 // Importing UI components
 
-
-
-// for redir
-// import * as History from "history";
-// import { withRouter } from "react-router";
 
 const spec = {
   "description": "A simple bar chart with embedded data.",

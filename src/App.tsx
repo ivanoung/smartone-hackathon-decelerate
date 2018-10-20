@@ -1,16 +1,10 @@
-import * as React from 'react';
-import './App.css';
-
-
+import * as React from "react";
 // Importing desktop containers
-import MobileRoutes from "src/routes/homepage";
+import Map from "./Page/Dashboard/Map";
+import MobileRoutes from "./routes/homepage";
 
 export default class App extends React.Component {
   public render() {
-    return (
-      <div>
-        <MobileRoutes />
-      </div>
-    );
+    return <Map />;
   }
 }

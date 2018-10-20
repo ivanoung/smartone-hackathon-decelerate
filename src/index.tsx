@@ -1,16 +1,13 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-
-import { BrowserRouter as Router, Route } from 'react-router-dom';
-
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import App from "./App";
-import registerServiceWorker from "./registerServiceWorker";
 
 ReactDOM.render(
-
   <Router>
-    <Route component={App} />
+    <Switch>
+      <Route path="/" component={App} />
+    </Switch>
   </Router>,
-  document.getElementById("root") as HTMLElement
+  document.getElementById("app") as HTMLElement
 );
-registerServiceWorker();

@@ -6,6 +6,7 @@
     "allowJs": true,
     "jsx": "react",
     "moduleResolution": "node",
+    "rootDir": "./",
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,

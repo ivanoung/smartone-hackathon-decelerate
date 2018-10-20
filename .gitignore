@@ -21,3 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 src/notebooks/.ipynb_checkpoints
+dist/

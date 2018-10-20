@@ -1,0 +1,40 @@
+#menu-button{
+  display: flex;
+  flex-direction: column;
+  width:50px;
+  height:50px;
+  justify-content: space-around;
+  margin-left:20px;
+  margin-top:20px;
+}
+.stacks{
+  width:100%;
+  height:10px;
+  background: black;
+}
+h1{
+  color:red;
+}
+.headerbox{
+  display: flex;
+}
+.child{
+  flex-grow: 1;
+}
+#menuOverlay{
+  height:100%;
+  width:100%;
+  background: rgba(0,0,0,0.3);
+  position: absolute;
+  top:0px;
+  left:0;
+}
+#menuItem{
+  height:100%;
+  width:200px;
+  background: black;
+  color:white;
+}
+.hide{
+  display: none;
+}

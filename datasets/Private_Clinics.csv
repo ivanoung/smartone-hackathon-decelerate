@@ -1,92 +1,90 @@
-ï»¿,Name of Clinic,Address,Lat,Long
-1,Assemblies of God Medical Clinic,"No. 11-12, G/F, Suet Fung House, Fung Tak Estate, Diamond Hill, Kowloon",22.34434,114.20165
-2,Black Point Power Station Health Centre,"Black Point Power Station, Lung Kwu Tan Road, Tuen Mun, New Territories",22.3947,113.91925
-3,BOCHK Health Care Division,"Room 1460, Bank of China Tower, 1 Garden Road, Central, Hong Kong",22.27847,114.15998
-4,BOCHK Health Care Division (BOC Centre),"30/F, Bank of China Centre, Olympian City, 11 Hoi Fai Road, West Kowloon, Kowloon",36.56311417,103.7358093
-5,Caritas Clinic â€“ Caine Road,"Medical Clinic - Room 032, G/F, Caritas House, 2 Caine Road, Hong Kong",22.33308029,114.1912231
-6,Caritas Clinic â€“ Ngau Tau Kok,"Room 1, G/F, 1 On Tak Road, Ngau Tau Kok, Kowloon",22.3192344,114.2167539
-7,Caritas Jockey Club Tsuen Wan Clinic,"Room 3, G/F, Block B, 146 Chung On Street, Tsuen Wan, New Territories",22.36823,114.11597
-8,Castle Peak Power Station Health Centre,"Castle Peak Power Station, Lung Yiu Street, Tuen Mun, New Territories",22.3712,113.92664
-9,Centre of Wellness (Kwun Tong),"Unit 7-8 (Area A), 20/F, Elite Centre, 22 Hung To Road, Kwun Tong, Kowloon",22.31341,114.21918
-10,Chee Kwong Free Clinic,"297 Pai Tau Village, Sha Tin, New Territories",22.38241959,114.1917496
-11,Ching Chung No. 2 Clinic,"28 Tsing Chung Koon Road, Tuen Mun, New Territories",22.4084465,113.972981
-12,Christian Family Service Centre Medical Clinic,"Room A, G/F, 3 Tsui Ping Road, Kwun Tong, Kowloon",22.31165,114.22907
-13,Clinic of China Resources Company,"D/F, Causeway Centre, 28 Harbour Road, Wan Chai, Hong Kong",22.28075,114.17612
-14,Emmanuel Medical Mission,"Medical Room, 1/F, 40 Shing Tak Street, Kowloon City, Kowloon",22.32443,114.18809
-15,Fung Kai Public School â€“ Fung Kai Care & Attention Home for the Elderly Medical Centre,"22 Tin Ping Road, Sheung Shui, New Territories",22.5074,114.13053
-16,HAECO Medical Clinic (Chek Lap Kok),"3/F, West Annex, Hangar 2, 80 South Perimeter Road, Hong Kong International Airport, Lantau, Hong Kong",22.30416,113.89949
-17,HAECO Medical Clinic (TKO),"3/F, 80 Chun Choi Street, Tseung Kwan O Industrial Estate, Tseung Kwan O, Sai Kung, New Territories",22.2805,114.27232
-18,Haven of Hope Bradbury King Lam Clinic,"Western Clinic, Shop No. 3, G/F, King Lui House, King Lam Estate, Tseung Kwan O, New Territories",22.32155037,114.2616501
-19,Haven of Hope Causeway Bay Medical Centre,"17/F, 119 Leighton Road, Congregational House, Causeway Bay, Hong Kong",22.27814,114.18631
-20,Haven of Hope S K Yee Hang Hau Clinic,"Western Clinic, G/F, 8 Pui Shing Lane, Tseung Kwan O, New Territories",22.31631,114.26744
-21,Haven of Hope S K Yee Hau Tak Clinic,"Shop No. W017A, Ground Floor, West Wing of TKO Gateway, Hau Tak Estate, Sheung Ning Road, TKO (Western Clinic)",-34.92390823,138.5644531
-22,Haven of Hope S K Yee Po Lam Clinic,"Western Clinic, Unit 327-328, Po Ning House, Po Lam Estate, Tseung Kwan O, New Territories",22.32155037,114.2616501
-23,Haven of Hope Sau Mau Ping Clinic,"Western Clinic, Shop No. 314, Sau Mau Ping Shopping Centre, Sau Mau Ping Estate, Kowloon",22.31832123,114.1949387
-24,HKFTU Medical & Healthcare Centre (Causeway Bay Clinic),"Western Medicine Clinic, 1/F, 5-13 Lee Garden Road, Causeway Bay, Hong Kong",22.27972,114.18323
-25,HKFTU Medical & Healthcare Centre (Central Clinic),"X-ray Laboratory & Western Medicine Clinic, Flat A, B & C, 3/F, Siu Ying Commercial Building, 151-155 Queen's Road Central, Hong Kong",22.27943039,114.1626587
-26,Hong Kong Breast Cancer Foundation Breast Health Centre,"21/F, Jupiter Tower, 9 Jupiter Street, North Point, Hong Kong",22.28631,114.19227
-27,"Hong Kong Breast Cancer Foundation, Breast Health Center (Kowloon)","G/F, 28 Lung Cheung Road, Kowloon",22.34475,114.17795
-28,Hong Kong Chiu Chow Merchants Mutual Assistance Society Clinic,"2/F, Gold Union Commercial Building, 70-72 Connaught Road West, Hong Kong",22.28823,114.14673
-29,"Hong Kong Christian Service, Medical & Dental Clinic","Room 100, Room 105-110, Room 115-120, 1/F, 33 Granville Road, Tsim Sha Tsui, Kowloon",22.30012,114.1742
-30,Hong Kong Federation of Trade Unions Workers' Medical Clinics (Kwun Tong Branch),"Western Medicine Clinic, Shop B, G/F, Lai Yue Building, 3 Horse Shoe Lane, Kwun Tong, Kowloon",22.31455,114.22224
-31,Hong Kong Federation of Trade Unions Workers' Medical Clinics (Mongkok Branch),"Western Medicine Clinic, 1/F, Silver Commercial Building, 719 Nathan Road, Mongkok, Kowloon",22.32092,114.16871
-32,Hong Kong Federation of Trade Unions Workers' Medical Clinics (Tai Po Branch),"Western Medicine Clinic, 1/F, Po Hong Mansion, 70-78 Kwong Fuk Road, Tai Po, New Territories",22.44861,114.16674
-33,Hong Kong Federation of Trade Unions Workers' Medical Clinics (Tsuen Wan Branch),"Western Medicine Clinic, Unit A2, B1, B2 & D, G/F, Fou Wah Centre, 210 Castle Peak Road, Tsuen Wan, New Territories",22.37298,114.1183
-34,Hong Kong Federation of Trade Unions Workers' Medical Clinics (Tuen Mun Branch),"Western Medicine Clinic, Shop No. 63, G/F, Eldo Court, 132 Heung Sze Wui Road, Tuen Mun, New Territories",22.38767052,113.9802933
-35,Hong Kong Red Swastika Society Free Clinic,"Western Clinic, No. 25 Dragon Road, Causeway Bay, Hong Kong",22.27739906,114.1880493
-36,Hong Kong Sports Institute Clinic,"Hong Kong Sports Institute Clinic, Sports Medicine Centre, L2, Sports Complex, Hong Kong Sports Institute, 25 Yuen Wo Road, Sha Tin, New Territories",22.38268089,114.1921082
-37,Hong Kong Tak Kow Chi Cheng Kok Clinic,"Shop No. 28, G/F, Kwan Yick Building, Phase 3, 271-285 Des Voeux Road West, Hong Kong",22.28817,114.1404
-38,Hong Kong Workers' Health Centre,"Room 1429 - 1437, 14/F, Beverley Commercial Centre, 87-105 Chatham Road South, Tsim Sha Tsui, Kowloon",22.3014,114.17611
-39,Hongkong & Kowloon Senior Citizens' Welfare Association Clinic,"Medical Clinic, 3/F, Great Eastern Mansion, 255-257 Reclamation Street, Yau Ma Tei, Kowloon",22.31458,114.1685
-40,Kiangsu Chekiang & Shanghai Medical Centre,"Room 111-122, 1/F, Max Share Centre, 367-373 King's Road, North Point, Hong Kong",22.29089,114.19788
-41,Kwun Tong Tsui Ping Road Estate Kaifong Welfare Association Registered Doctor Clinic,"L9, G/F, Tsui Nam House, Tsui Ping (North) Estate, Kwun Tong, Kowloon",22.31056976,114.2305984
-42,Lung Hing Tong Clinic,"Medical Clinic, G/F, 94 Ki Lung Street, Sham Shui Po, Kowloon",22.32652,114.16511
-43,Medical Clinic of Shek O Health Centre,"140 Shek O Village, Hong Kong",22.33308029,114.1912231
-44,"Medical Clinic of the Lok Sin Tong Benevolent Society, Kowloon","Western Clinic, G/F, 61 Lung Kong Road, Kowloon City, Kowloon",22.33005,114.19032
-45,PCHK Medical Services Eye Clinic,"Eye Clinic, 2/F, Tsz Wan Shan (South) Estate Community Centre, 45 Wan Wah Street, Wong Tai Sin, Kowloon",22.34638,114.19963
-46,Peace Medical Centre,"Room 6 and Room 7, G/F, 145 Hong Ning Road, Kwun Tong, Kowloon",22.3185499,114.22285
-47,Pentecostal Holiness Church Fung Tak Medical Centre,"Medical Clinic, Room 247-254, Ngan Fung House, Fung Tak Estate, Diamond Hill, Kowloon",22.33963013,114.20681
-48,Plant Clinic â€“ Swire Beverages Limited T/A Swire Coca-Cola Hong Kong,"17-19 Yuen Shun Circuit, Siu Lek Yuen, Sha Tin, New Territories",22.38219,114.20823
-49,Po Leung Kuk Making Life Beautiful Integrated Health Centre,"Room 3, clinic assistantsâ€™ working area and clientsâ€™ waiting area of Room 1007-1008, 10/F, Hang Seng North Point Building, 341 Kingâ€™s Road, North Point, Hong Kong",22.28796959,114.2028503
-50,Po Leung Kuk No.1 Integrated Health Centre,"Lobby & Room 2-4, 17/F, Prince Edward~The Lamma City, 761 Nathan Road, Kowloon",22.32471,114.16808
-51,Saint Yen Clinic,"Shop No. 71, G/F, Manor Centre, 213 Un Chau Street, Kowloon",22.33443,114.16016
-52,SARDA Wanchai Clinic,"15/F, Southorn Centre, 130 Hennessy Road, Wan Chai, Hong Kong",22.27737,114.17276
-53,Sik Sik Yuen Clinic,"General Clinic, C, G/F, Sik Sik Yuen Social Services Complex, 38 Fung Tak Road, Wong Tai Sin, Kowloon",22.3432,114.19737
-54,The Family Planning Association of Hong Kong - Kwai Fong Youth Health Care Centre,"Unit 702-705, Level 7, Metroplaza Tower 2, 223 Hing Fong Road, Kwai Fong, New Territories",22.35769,114.12613
-55,The Family Planning Association of Hong Kong â€“ Ma Tau Chung Clinic,"105 Ma Tau Chung Road, Kowloon",22.32419,114.18841
-56,The Family Planning Association of Hong Kong â€“ Tsuen Wan Clinic,"Room 1621-1622, 16/F, Nan Fung Centre, 264-298 Castle Peak Road, Tsuen Wan, New Territories",22.37376,114.11587
-57,The Family Planning Association of Hong Kong â€“ Wan Chai Clinic,"G/F, 8/F & 9/F (Sexual & Reproductive Health Centre), Southorn Centre, 130 Hennessy Road, Wan Chai, Hong Kong",22.27737,114.17276
-58,The Family Planning Association of Hong Kong â€“ Wong Tai Sin Clinic,"G/F, 1-2 Lung On House, Lower Wong Tai Sin Estate (II), Kowloon",22.34202,114.20111
-59,The Family Planning Association of Hong Kong â€“ Youth Health Care Centre â€“ Mongkok Centre,"Room A, 13/F, Full Win Commercial Centre, 573 Nathan Road, Kowloon",22.31499,114.17008
-60,The Family Planning Association of Hong Kong â€“ Yuen Long Clinic,"149-153 On Ning Road, Yuen Long, New Territories",22.44607,114.02843
-61,The Hong Kong and China Gas Company Limited Clinic,"11/F, 363 Java Road, North Point, Hong Kong",22.2929,114.20297
-62,The Islamic Union Medical Clinic,"7/F, 40 Oi Kwan Road, Wan Chai, Hong Kong",22.27729,114.1788
-63,"The Lok Sin Tong Chan Cho Chak Polyclinics, Mongkok","Western Clinic, Flat A & B, 3/F, 688 Shanghai Street, Kowloon",31.23036957,121.4737015
-64,UCN â€“ Bradbury Kwong Tin Community Health Centre,"Area A, Unit 203, Kwong Tin Shopping Centre, Kwong Tin Estate, Lam Tin, Kowloon",22.30279,114.23956
-65,UCN â€“ Jockey Club Tin Shui Wai Community Health Centre,"Area A, Unit 103, 1/F, Tin Ching Amenity and Community Building, Tin Ching Estate, Tin Shui Wai, New Territories",22.45833969,114.0020218
-66,UCN â€“ Jockey Club Wo Lok Community Health Centre,"Area A, Unit 24, 26-33 & 35, G/F & LG/F, Kui On House, Wo Lok Estate, Hip Wo Street, Kwun Tong, Kowloon",22.31742,114.22676
-67,UCN â€“ Kwong Fuk Community Health Centre,"Unit A, Unit 19, G/F, Kwong Yan House, Kwong Fuk Estate, Tai Po, New Territories",22.44729,114.17398
-68,UCN Cheerful Health Centre,"Area A, 1/F, Cheerful Court, 55 Choi Ha Road, Jordan Valley, Kowloon",22.32559,114.21668
-69,UCN Jordan Health Centre,"13/F, Sino Cheer Plaza, 23 Jordan Road, Kowloon",31.24819183,36.7881012
-70,"University Health Service, The Hong Kong Polytechnic University","University Health Service, The Hong Kong Polytechnic University, G/F and 1/F (A125h, A125i, A125j), 1 Yuk Choi Road, Hung Hom, Kowloon",22.30459976,114.192009
-The following clinics are exempted from Section 7* of the Medical Clinics Ordinance (Chapter 343),,,,
-71,Chung Sing Benevolent Society Clinic,"Flat C, 1/F, 379 Lockhart Road, Wan Chai, Hong Kong",22.28061,114.18355
-72,"Clinic of the Association of the Natives of Tung Koon, Shatin","1/F, 6 Portland Street, Kowloon",22.31202,114.17035
-73,Hong Kong & Kowloon Inhabitants' Main Association Clinic,"Room 6A, 6/F, Toi Shan Centre, 128 Johnston Road, Wan Chai, Hong Kong",22.27661,114.17344
-74,Hong Kong Baptist Mission Clinic,"1/F, 32A Belcher's Street, Kennedy Town, Hong Kong",22.28312,114.1301
-75,Hong Kong Baptist Mission Clinic,"Room 303, 1/F, Kam Yuck Building, Wai Chi Lane, Shek Kip Mei, Kowloon",22.33456,114.16712
-76,Hong Kong Baptist Mission Clinic,"G/F, 36 Yin Hing Street, San Po Kong, Kowloon",22.3358199,114.19482
-77,Hong Kong Baptist Mission Clinic,"1/F, 100 Chung On Street, Tsuen Wan, New Territories",22.36946,114.11677
-78,Kam Tin Clinic,"1/F, 89 Tai Hong Wai, Kam Tin Main Road, Kam Tin, New Territories",22.4408299,114.06572
-79,Kin Hong Medical Clinic,"Shop E, G/F, Man On Building, 2-6 Man On Street, Tai Kok Tsui, Kowloon",22.32332,114.1615
-80,Kwai Chung Clinic,"Shop I1 & I2, G/F, Tak Tai Building, 19B Tai Ha Street, Tai Wo Hau, New Territories",22.36807,114.1238
-81,Kwok's Clansmen Association Living Water Clinic,"G/F, 16 Waterloo Road, Yau Ma Tei, Kowloon",22.3127299,114.16978
-82,On On Clinic,"G/F, 30 Shung Wah Street, Fung Wong Village, Kowloon",22.3463299,114.19826
-83,Po Chai Church Clinic,"G/F, 75 First Street, Sai Ying Pun, Hong Kong",22.28657,114.1405
-84,Shing Yan Clinic,"Room 204, 2/F, Chung Wo Commercial Centre, 42-46 Shanghai Street, Kowloon",31.23036957,121.4737015
-85,Tai Po Clinic,"M/F, 99 Kwong Fuk Road, Tai Po Market, New Territories",22.44844,114.1677
-86,Wong Tai Sin Estate Kaifong Welfare Association Clinic,"No. 4, G/F, Lung Lok House, Wong Tai Sin Lower Estate, Wong Tai Sin, Kowloon",22.34003067,114.1958389
-87,Wood Man Church Clinic,"Flat B, 1/F, Hong Ning Mansion, 56-58 Nga Tsin Wai Road, Kowloon",22.32896,114.19068
-88,Yee On Clinic,"Flat J, 2/F, Yen Dack Building, 103 - 113 Chun Yeung Street, North Point, Hong Kong",22.29157,114.19842
-,,,,
-,,,,
+Name of Clinic	Address	Long	Lat
+Assemblies of God Medical Clinic	"No. 11-12, G/F, Suet Fung House, Fung Tak Estate, Diamond Hill, Kowloon"	114.20165	22.34434
+Black Point Power Station Health Centre	"Black Point Power Station, Lung Kwu Tan Road, Tuen Mun, New Territories"	113.91925	22.3947
+BOCHK Health Care Division	"Room 1460, Bank of China Tower, 1 Garden Road, Central, Hong Kong"	114.15998	22.27847
+BOCHK Health Care Division (BOC Centre)	"30/F, Bank of China Centre, Olympian City, 11 Hoi Fai Road, West Kowloon, Kowloon"	103.7358093	36.56311417
+Caritas Clinic – Caine Road	"Medical Clinic - Room 032, G/F, Caritas House, 2 Caine Road, Hong Kong"	114.1912231	22.33308029
+Caritas Clinic – Ngau Tau Kok	"Room 1, G/F, 1 On Tak Road, Ngau Tau Kok, Kowloon"	114.2167539	22.3192344
+Caritas Jockey Club Tsuen Wan Clinic	"Room 3, G/F, Block B, 146 Chung On Street, Tsuen Wan, New Territories"	114.11597	22.36823
+Castle Peak Power Station Health Centre	"Castle Peak Power Station, Lung Yiu Street, Tuen Mun, New Territories"	113.92664	22.3712
+Centre of Wellness (Kwun Tong)	"Unit 7-8 (Area A), 20/F, Elite Centre, 22 Hung To Road, Kwun Tong, Kowloon"	114.21918	22.31341
+Chee Kwong Free Clinic	"297 Pai Tau Village, Sha Tin, New Territories"	114.1917496	22.38241959
+Ching Chung No. 2 Clinic	"28 Tsing Chung Koon Road, Tuen Mun, New Territories"	113.972981	22.4084465
+Christian Family Service Centre Medical Clinic	"Room A, G/F, 3 Tsui Ping Road, Kwun Tong, Kowloon"	114.22907	22.31165
+Clinic of China Resources Company	"D/F, Causeway Centre, 28 Harbour Road, Wan Chai, Hong Kong"	114.17612	22.28075
+Emmanuel Medical Mission	"Medical Room, 1/F, 40 Shing Tak Street, Kowloon City, Kowloon"	114.18809	22.32443
+Fung Kai Public School – Fung Kai Care & Attention Home for the Elderly Medical Centre	"22 Tin Ping Road, Sheung Shui, New Territories"	114.13053	22.5074
+HAECO Medical Clinic (Chek Lap Kok)	"3/F, West Annex, Hangar 2, 80 South Perimeter Road, Hong Kong International Airport, Lantau, Hong Kong"	113.89949	22.30416
+HAECO Medical Clinic (TKO)	"3/F, 80 Chun Choi Street, Tseung Kwan O Industrial Estate, Tseung Kwan O, Sai Kung, New Territories"	114.27232	22.2805
+Haven of Hope Bradbury King Lam Clinic	"Western Clinic, Shop No. 3, G/F, King Lui House, King Lam Estate, Tseung Kwan O, New Territories"	114.2616501	22.32155037
+Haven of Hope Causeway Bay Medical Centre	"17/F, 119 Leighton Road, Congregational House, Causeway Bay, Hong Kong"	114.18631	22.27814
+Haven of Hope S K Yee Hang Hau Clinic	"Western Clinic, G/F, 8 Pui Shing Lane, Tseung Kwan O, New Territories"	114.26744	22.31631
+Haven of Hope S K Yee Hau Tak Clinic	"Shop No. W017A, Ground Floor, West Wing of TKO Gateway, Hau Tak Estate, Sheung Ning Road, TKO (Western Clinic)"	138.5644531	-34.92390823
+Haven of Hope S K Yee Po Lam Clinic	"Western Clinic, Unit 327-328, Po Ning House, Po Lam Estate, Tseung Kwan O, New Territories"	114.2616501	22.32155037
+Haven of Hope Sau Mau Ping Clinic	"Western Clinic, Shop No. 314, Sau Mau Ping Shopping Centre, Sau Mau Ping Estate, Kowloon"	114.1949387	22.31832123
+HKFTU Medical & Healthcare Centre (Causeway Bay Clinic)	"Western Medicine Clinic, 1/F, 5-13 Lee Garden Road, Causeway Bay, Hong Kong"	114.18323	22.27972
+HKFTU Medical & Healthcare Centre (Central Clinic)	"X-ray Laboratory & Western Medicine Clinic, Flat A, B & C, 3/F, Siu Ying Commercial Building, 151-155 Queen's Road Central, Hong Kong"	114.1626587	22.27943039
+Hong Kong Breast Cancer Foundation Breast Health Centre	"21/F, Jupiter Tower, 9 Jupiter Street, North Point, Hong Kong"	114.19227	22.28631
+"Hong Kong Breast Cancer Foundation, Breast Health Center (Kowloon)"	"G/F, 28 Lung Cheung Road, Kowloon"	114.17795	22.34475
+Hong Kong Chiu Chow Merchants Mutual Assistance Society Clinic	"2/F, Gold Union Commercial Building, 70-72 Connaught Road West, Hong Kong"	114.14673	22.28823
+"Hong Kong Christian Service, Medical & Dental Clinic"	"Room 100, Room 105-110, Room 115-120, 1/F, 33 Granville Road, Tsim Sha Tsui, Kowloon"	114.1742	22.30012
+Hong Kong Federation of Trade Unions Workers' Medical Clinics (Kwun Tong Branch)	"Western Medicine Clinic, Shop B, G/F, Lai Yue Building, 3 Horse Shoe Lane, Kwun Tong, Kowloon"	114.22224	22.31455
+Hong Kong Federation of Trade Unions Workers' Medical Clinics (Mongkok Branch)	"Western Medicine Clinic, 1/F, Silver Commercial Building, 719 Nathan Road, Mongkok, Kowloon"	114.16871	22.32092
+Hong Kong Federation of Trade Unions Workers' Medical Clinics (Tai Po Branch)	"Western Medicine Clinic, 1/F, Po Hong Mansion, 70-78 Kwong Fuk Road, Tai Po, New Territories"	114.16674	22.44861
+Hong Kong Federation of Trade Unions Workers' Medical Clinics (Tsuen Wan Branch)	"Western Medicine Clinic, Unit A2, B1, B2 & D, G/F, Fou Wah Centre, 210 Castle Peak Road, Tsuen Wan, New Territories"	114.1183	22.37298
+Hong Kong Federation of Trade Unions Workers' Medical Clinics (Tuen Mun Branch)	"Western Medicine Clinic, Shop No. 63, G/F, Eldo Court, 132 Heung Sze Wui Road, Tuen Mun, New Territories"	113.9802933	22.38767052
+Hong Kong Red Swastika Society Free Clinic	"Western Clinic, No. 25 Dragon Road, Causeway Bay, Hong Kong"	114.1880493	22.27739906
+Hong Kong Sports Institute Clinic	"Hong Kong Sports Institute Clinic, Sports Medicine Centre, L2, Sports Complex, Hong Kong Sports Institute, 25 Yuen Wo Road, Sha Tin, New Territories"	114.1921082	22.38268089
+Hong Kong Tak Kow Chi Cheng Kok Clinic	"Shop No. 28, G/F, Kwan Yick Building, Phase 3, 271-285 Des Voeux Road West, Hong Kong"	114.1404	22.28817
+Hong Kong Workers' Health Centre	"Room 1429 - 1437, 14/F, Beverley Commercial Centre, 87-105 Chatham Road South, Tsim Sha Tsui, Kowloon"	114.17611	22.3014
+Hongkong & Kowloon Senior Citizens' Welfare Association Clinic	"Medical Clinic, 3/F, Great Eastern Mansion, 255-257 Reclamation Street, Yau Ma Tei, Kowloon"	114.1685	22.31458
+Kiangsu Chekiang & Shanghai Medical Centre	"Room 111-122, 1/F, Max Share Centre, 367-373 King's Road, North Point, Hong Kong"	114.19788	22.29089
+Kwun Tong Tsui Ping Road Estate Kaifong Welfare Association Registered Doctor Clinic	"L9, G/F, Tsui Nam House, Tsui Ping (North) Estate, Kwun Tong, Kowloon"	114.2305984	22.31056976
+Lung Hing Tong Clinic	"Medical Clinic, G/F, 94 Ki Lung Street, Sham Shui Po, Kowloon"	114.16511	22.32652
+Medical Clinic of Shek O Health Centre	"140 Shek O Village, Hong Kong"	114.1912231	22.33308029
+"Medical Clinic of the Lok Sin Tong Benevolent Society, Kowloon"	"Western Clinic, G/F, 61 Lung Kong Road, Kowloon City, Kowloon"	114.19032	22.33005
+PCHK Medical Services Eye Clinic	"Eye Clinic, 2/F, Tsz Wan Shan (South) Estate Community Centre, 45 Wan Wah Street, Wong Tai Sin, Kowloon"	114.19963	22.34638
+Peace Medical Centre	"Room 6 and Room 7, G/F, 145 Hong Ning Road, Kwun Tong, Kowloon"	114.22285	22.3185499
+Pentecostal Holiness Church Fung Tak Medical Centre	"Medical Clinic, Room 247-254, Ngan Fung House, Fung Tak Estate, Diamond Hill, Kowloon"	114.20681	22.33963013
+Plant Clinic – Swire Beverages Limited T/A Swire Coca-Cola Hong Kong	"17-19 Yuen Shun Circuit, Siu Lek Yuen, Sha Tin, New Territories"	114.20823	22.38219
+Po Leung Kuk Making Life Beautiful Integrated Health Centre	"Room 3, clinic assistants’ working area and clients’ waiting area of Room 1007-1008, 10/F, Hang Seng North Point Building, 341 King’s Road, North Point, Hong Kong"	114.2028503	22.28796959
+Po Leung Kuk No.1 Integrated Health Centre	"Lobby & Room 2-4, 17/F, Prince Edward~The Lamma City, 761 Nathan Road, Kowloon"	114.16808	22.32471
+Saint Yen Clinic	"Shop No. 71, G/F, Manor Centre, 213 Un Chau Street, Kowloon"	114.16016	22.33443
+SARDA Wanchai Clinic	"15/F, Southorn Centre, 130 Hennessy Road, Wan Chai, Hong Kong"	114.17276	22.27737
+Sik Sik Yuen Clinic	"General Clinic, C, G/F, Sik Sik Yuen Social Services Complex, 38 Fung Tak Road, Wong Tai Sin, Kowloon"	114.19737	22.3432
+The Family Planning Association of Hong Kong - Kwai Fong Youth Health Care Centre	"Unit 702-705, Level 7, Metroplaza Tower 2, 223 Hing Fong Road, Kwai Fong, New Territories"	114.12613	22.35769
+The Family Planning Association of Hong Kong – Ma Tau Chung Clinic	"105 Ma Tau Chung Road, Kowloon"	114.18841	22.32419
+The Family Planning Association of Hong Kong – Tsuen Wan Clinic	"Room 1621-1622, 16/F, Nan Fung Centre, 264-298 Castle Peak Road, Tsuen Wan, New Territories"	114.11587	22.37376
+The Family Planning Association of Hong Kong – Wan Chai Clinic	"G/F, 8/F & 9/F (Sexual & Reproductive Health Centre), Southorn Centre, 130 Hennessy Road, Wan Chai, Hong Kong"	114.17276	22.27737
+The Family Planning Association of Hong Kong – Wong Tai Sin Clinic	"G/F, 1-2 Lung On House, Lower Wong Tai Sin Estate (II), Kowloon"	114.20111	22.34202
+The Family Planning Association of Hong Kong – Youth Health Care Centre – Mongkok Centre	"Room A, 13/F, Full Win Commercial Centre, 573 Nathan Road, Kowloon"	114.17008	22.31499
+The Family Planning Association of Hong Kong – Yuen Long Clinic	"149-153 On Ning Road, Yuen Long, New Territories"	114.02843	22.44607
+The Hong Kong and China Gas Company Limited Clinic	"11/F, 363 Java Road, North Point, Hong Kong"	114.20297	22.2929
+The Islamic Union Medical Clinic	"7/F, 40 Oi Kwan Road, Wan Chai, Hong Kong"	114.1788	22.27729
+"The Lok Sin Tong Chan Cho Chak Polyclinics, Mongkok"	"Western Clinic, Flat A & B, 3/F, 688 Shanghai Street, Kowloon"	121.4737015	31.23036957
+UCN – Bradbury Kwong Tin Community Health Centre	"Area A, Unit 203, Kwong Tin Shopping Centre, Kwong Tin Estate, Lam Tin, Kowloon"	114.23956	22.30279
+UCN – Jockey Club Tin Shui Wai Community Health Centre	"Area A, Unit 103, 1/F, Tin Ching Amenity and Community Building, Tin Ching Estate, Tin Shui Wai, New Territories"	114.0020218	22.45833969
+UCN – Jockey Club Wo Lok Community Health Centre	"Area A, Unit 24, 26-33 & 35, G/F & LG/F, Kui On House, Wo Lok Estate, Hip Wo Street, Kwun Tong, Kowloon"	114.22676	22.31742
+UCN – Kwong Fuk Community Health Centre	"Unit A, Unit 19, G/F, Kwong Yan House, Kwong Fuk Estate, Tai Po, New Territories"	114.17398	22.44729
+UCN Cheerful Health Centre	"Area A, 1/F, Cheerful Court, 55 Choi Ha Road, Jordan Valley, Kowloon"	114.21668	22.32559
+UCN Jordan Health Centre	"13/F, Sino Cheer Plaza, 23 Jordan Road, Kowloon"	36.7881012	31.24819183
+"University Health Service, The Hong Kong Polytechnic University"	"University Health Service, The Hong Kong Polytechnic University, G/F and 1/F (A125h, A125i, A125j), 1 Yuk Choi Road, Hung Hom, Kowloon"	114.192009	22.30459976
+			
+Chung Sing Benevolent Society Clinic	"Flat C, 1/F, 379 Lockhart Road, Wan Chai, Hong Kong"	114.18355	22.28061
+"Clinic of the Association of the Natives of Tung Koon, Shatin"	"1/F, 6 Portland Street, Kowloon"	114.17035	22.31202
+Hong Kong & Kowloon Inhabitants' Main Association Clinic	"Room 6A, 6/F, Toi Shan Centre, 128 Johnston Road, Wan Chai, Hong Kong"	114.17344	22.27661
+Hong Kong Baptist Mission Clinic	"1/F, 32A Belcher's Street, Kennedy Town, Hong Kong"	114.1301	22.28312
+Hong Kong Baptist Mission Clinic	"Room 303, 1/F, Kam Yuck Building, Wai Chi Lane, Shek Kip Mei, Kowloon"	114.16712	22.33456
+Hong Kong Baptist Mission Clinic	"G/F, 36 Yin Hing Street, San Po Kong, Kowloon"	114.19482	22.3358199
+Hong Kong Baptist Mission Clinic	"1/F, 100 Chung On Street, Tsuen Wan, New Territories"	114.11677	22.36946
+Kam Tin Clinic	"1/F, 89 Tai Hong Wai, Kam Tin Main Road, Kam Tin, New Territories"	114.06572	22.4408299
+Kin Hong Medical Clinic	"Shop E, G/F, Man On Building, 2-6 Man On Street, Tai Kok Tsui, Kowloon"	114.1615	22.32332
+Kwai Chung Clinic	"Shop I1 & I2, G/F, Tak Tai Building, 19B Tai Ha Street, Tai Wo Hau, New Territories"	114.1238	22.36807
+Kwok's Clansmen Association Living Water Clinic	"G/F, 16 Waterloo Road, Yau Ma Tei, Kowloon"	114.16978	22.3127299
+On On Clinic	"G/F, 30 Shung Wah Street, Fung Wong Village, Kowloon"	114.19826	22.3463299
+Po Chai Church Clinic	"G/F, 75 First Street, Sai Ying Pun, Hong Kong"	114.1405	22.28657
+Shing Yan Clinic	"Room 204, 2/F, Chung Wo Commercial Centre, 42-46 Shanghai Street, Kowloon"	121.4737015	31.23036957
+Tai Po Clinic	"M/F, 99 Kwong Fuk Road, Tai Po Market, New Territories"	114.1677	22.44844
+Wong Tai Sin Estate Kaifong Welfare Association Clinic	"No. 4, G/F, Lung Lok House, Wong Tai Sin Lower Estate, Wong Tai Sin, Kowloon"	114.1958389	22.34003067
+Wood Man Church Clinic	"Flat B, 1/F, Hong Ning Mansion, 56-58 Nga Tsin Wai Road, Kowloon"	114.19068	22.32896
+Yee On Clinic	"Flat J, 2/F, Yen Dack Building, 103 - 113 Chun Yeung Street, North Point, Hong Kong"	114.19842	22.29157
